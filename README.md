@@ -25,7 +25,7 @@ How to Run:-
 
 1. Download or clone this repository
 
-git clonehttps://github.com/Shrutiidev114/PASSWORD-GENERATOR.git 
+git clone https://github.com/Shrutiidev114/PASSWORD-GENERATOR.git 
 
 2. Open the project folder
 
